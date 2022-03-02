@@ -159,9 +159,6 @@
   <ItemGroup>
     <ClCompile Include="TestConnectSqllite.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="test.db" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
